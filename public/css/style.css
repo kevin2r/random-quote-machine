@@ -30,10 +30,15 @@ footer {
   bottom: 1%;
 }
 
-.buttons {
+.footer-buttons {
   float: right;
   margin-right: 2rem;
-  font-size: 15px;
+  font-size: 15px;     
+}
+
+#tweet-quote {
+  background-color: transparent;
+  border: none;
 }
 
 .creator {
