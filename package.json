@@ -1,0 +1,38 @@
+{
+  "name": "random-quote-machine",
+  "version": "0.0.1",
+  "description": "Random Quote Machine.",
+  "main": "index.js",
+  "directories": {
+    "public": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug": "supervisor -e 'html,css,js' node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin2r/random-quote-machine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kevin2r/FreeCodeCamp/issues"
+  },
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "morgan": "^1.6.1",
+    "serve-favicon": "^2.3.0"
+  },
+  "devDependencies": {
+    "reload": "^0.7.0",
+    "supervisor": "^0.5.7"
+  },
+  "homepage": "https://github.com/kevin2r/FreeCodeCamp#readme",
+  "keywords": [
+    "freecodecamp",
+    "javascript"
+  ],
+  "author": "Kevin Rodriguez",
+  "license": "MIT"
+}

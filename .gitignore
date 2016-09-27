@@ -1,0 +1,7 @@
+#node modules folder anywhere
+**/node_modules/
+
+#bower packages anywhere
+**/bower_components/
+
+npm-debug.log

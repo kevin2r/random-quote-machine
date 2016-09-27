@@ -1,0 +1,25 @@
+{
+  "name": "random-quote-machine",
+  "description": "Random Quote Machine.",
+  "main": "index.html",
+  "authors": [
+    "Kevin Rodriguez"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/kevin2r/MyFreeCodeCamp",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3",
+    "font-awesome": "^4.6.1",
+    "normalize-css": "^4.1.1"
+  }
+}

@@ -1,0 +1,42 @@
+html,
+body {
+  font-family: "Open Sans", "Droid Sans", Helvetica, sans-serif;
+  font-weight: 300;
+  overflow-x: hidden;
+}
+
+.quote {
+  position: absolute;
+  width: 100%;
+  top: 30%;
+}
+
+.quote .text {
+  font-size: 5rem;
+  text-align: center;
+}
+
+.quote .author {
+  text-align: right;
+  width: 80%;
+  font-size: 2rem;
+}
+
+footer {
+  position: absolute;
+  width: 100%;
+  color: #383838;
+  font-size: 12px;
+  bottom: 1%;
+}
+
+.buttons {
+  float: right;
+  margin-right: 2rem;
+  font-size: 15px;
+}
+
+.creator {
+  float: left;
+  margin-left: 2rem;
+}
