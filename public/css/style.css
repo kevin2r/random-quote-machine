@@ -6,9 +6,10 @@ body {
 }
 
 .quote {
-  position: absolute;
+  position: relative;
   width: 100%;
   top: 30%;
+  margin-top: 5%;
 }
 
 .quote .text {
